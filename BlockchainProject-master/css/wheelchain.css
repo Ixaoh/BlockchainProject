@@ -1,0 +1,46 @@
+/*
+   This is the main WheelChain css file. By adding this to a page, all standard layout will normally be the same.
+   Make sure that you also added bootstrap AND the links to the correct google fonts.
+*/
+
+#wc-header
+{
+    background-color: #0E4061;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    color: white;
+    font-family: 'Baloo', cursive;
+}
+
+body
+{
+    background-image: url('../img/car_background2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.container
+{
+    background-color: white;
+}
+
+#wc-explanation
+{
+    padding-top:     15px;
+    padding-bottom:  15px;
+}
+#box-Search
+{
+  background-color: #ffff;
+  display:block;
+  text-align: center;
+  background-color:#fff;
+  margin-left:183px;
+  margin-right:183px;
+  padding: 80px;
+  padding-right: 30px;
+  padding-left: 30px;
+  width: auto;
+}
